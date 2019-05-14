@@ -1,4 +1,4 @@
-fileJs.addFile('src/promis.js'/*, 'promis'*/);
+//fileJs.addFile('src/promis.js'/*, 'promis'*/);
 //add.addFile('src/class.js');
 //add.addFile('src/callbackhell.js');
 //fileJs.removeFile('src/promis.js''promis');
